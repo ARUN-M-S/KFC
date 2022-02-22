@@ -1,0 +1,371 @@
+
+body{
+    margin: 0;
+}
+    h1{
+        margin: 0;
+    }
+ .container{
+     width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 30px;
+        margin-bottom: 10px;
+         position:sticky; 
+        /*top: 0;
+        left: 0;
+         z-index:10 ; */
+        /* background-color: yellow; */
+        
+    
+    
+
+ }
+.kfclogo{
+
+    margin-top: 30px;
+    margin-left: 180px;
+    width: 90px;
+}
+.menu{
+    vertical-align: center;
+    text-align: center;
+    font-weight: 300px;
+    margin-top: 50px;
+    margin-left: 50px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+
+}
+.deals{
+    margin-left: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300px;
+    font-size: larger;
+}
+.two{
+    display: flex;
+    justify-content: center;
+
+}
+.signinlogo{
+    margin-right: 15px;
+    margin-top: 25px;
+    width: 20px;
+    
+}
+.sign-text{
+    margin-right: 40px;
+    margin-top: 25px;
+    font-weight: 100;
+    line-height: 1;
+    color: black;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
+    font-size: 23px;
+    padding: 6px 12px;
+    border-right: 1px solid #ddd;
+}
+
+.bucket{
+    width:50px;
+    margin-top: 13px;
+    margin-right: 180px;
+    
+}
+.Blackborder1{
+     max-width: 100%;
+     height: 100px;
+     background-color:#202124;
+    
+
+
+}
+.Lets{
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    line-height: 5;
+    font-family: "National 2 Condensed";
+    
+
+}
+.button{
+    background-color: #E4002B;
+    width: 170px;
+    height: 60px;
+    border-radius: 40px;
+    font-size: medium;
+    color: beige;
+    cursor: pointer;
+    
+}
+.Welcome{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ transform: scale(0.5,.9);
+    font-weight:bolder;
+    font-size: 28px;
+    color: #202124;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-right: 650px;
+}
+.BROWSECATEGORIES h2{
+     transform: scale(.5,.9);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight:800;
+    font-size: 50px;
+    color: #202124;
+    margin-right: 650px;
+    margin-bottom: 30px;
+    margin-left: 1px;
+    display: flex; 
+    
+   
+    
+}
+.BROWSECATEGORIES{
+position: relative;
+}
+
+.BROWSECATEGORIES h2 sapn{
+    background: #fff;
+    margin: 0 15px;
+}
+
+.box{
+    position: absolute;
+ width: 900px;
+ height: 0px;
+    border: #202124;
+    border-top: solid rgb(236, 240, 241);
+    margin-top: 22px;
+    margin-left: 600px;
+}
+.main_image{
+    object-fit: cover;
+    width:100%;
+}
+.image-container{
+    width: 100%;
+    height: 190px;
+}
+.image-container img{
+    width: 100%;
+    height: 90%;
+    
+}
+.section2{
+    display: flex;
+    justify-content: space-evenly;
+    height: 50vh;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.classcontainer h1{
+    color: black;
+    font-size: medium;
+    font-family: sans-serif;
+}
+.classcontainer{
+    width: 240px;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    background-color:rgb(233, 231, 228) ;
+
+}
+.container1{
+    width: 240px;
+    border-radius: 10px;
+    overflow: hidden;
+    background :rgb(233, 231, 228);
+    text-align: center;}
+    .container1 h1{
+        color: black;
+    font-size: medium;
+
+    }
+    .container1 h1{
+        color: black;
+    font-size: medium;
+    font-family: sans-serif;
+    }
+    .secondrow{
+        display: flex;
+    justify-content: space-evenly;
+    height: 35vh;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    }
+    .Blackstrip{
+        margin-top: 150px;
+
+    
+    }
+    .section3{
+     max-width: 100%;
+     height: 1100px;
+     background-color:#202124;
+     margin-top: 150px;
+     
+        
+    }
+    .OFFERS{
+        font-size: larger;
+        margin-left: 150px;
+        font-weight: 900;
+        transform: scale(1,1.5);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: white;
+        margin-top: 50px;
+
+    }
+    .redstrip{
+        background-color: rgb(228,0,43);
+        width: 20px;
+        height: 50px;
+        margin-left: 165px;
+    } .redstrip2{
+        background-color: rgb(228,0,43);
+        width: 20px;
+        height: 50px;
+        margin-left: 20px;
+    }.redstrip3{
+        background-color: rgb(228,0,43);
+        width: 20px;
+        height: 50px;
+        margin-left: 20px;
+    }
+ .redst3{
+        display: flex;
+
+    }
+    .all{
+        font-size: medium;
+        color: #ddd;
+        margin-left: 650px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight:900;
+        margin-top: 55px;
+        
+    }   
+    .allmain{
+        display: flex;
+    }
+
+       .button12{
+        border-radius: 40px;
+        margin-left: 60px;
+       width: 60px;
+       height: 60px;
+       margin-top: 100px; 
+
+       }
+       /* offers */
+    
+    .container3{
+        width: 330px;
+        border-radius:8px;
+        overflow: hidden;
+        background :rgb(233, 231, 228);
+        text-align: center;
+}
+        .of1{
+        
+            color:red;
+        font-size:30px;
+        width: 100%;
+        height:40px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-top:0px;
+        
+    
+        }
+        .Thirdrow{
+            display: flex;
+        justify-content: space-evenly;
+        height: 50vh;
+        align-items: center;
+        margin-left: 10%;
+        margin-right: 3%;}
+        .image-container3{
+            width: 100%;
+            height: 200px;
+        }
+        .image-container3 img{
+            width: 100%;
+            height: 100%;
+        }
+            .of2{
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+           margin-top: 0px; 
+            }
+   .viewd{
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       text-decoration: underline;
+       margin-right: 30px; 
+    }
+    .Redeem{
+        margin-left: 70px;
+        border-radius: 40px;
+        width: 120px;
+        height:45px;
+    }
+   .footermain{
+       margin-top: 140px;
+       margin-left: 90px;
+       display: flex;
+   }
+   .footerco{
+    margin-left: 40px;
+    color: antiquewhite;
+    display: flex;
+   }
+   li{
+    list-style-type: none;
+    line-height: 30px;
+       
+   }
+   .findkfc{
+       margin-left: 20px;
+       margin-bottom: 115px;
+   }
+   .find{
+       color: #ddd;
+       text-decoration: underline;
+       margin-left: 14px;
+       size:3px;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+    }
+    .gp{
+        size: 10px;
+        margin-bottom: 100px;
+        margin-left: 50px;
+    }
+    .ap{
+        size: 10px;
+        margin-left: 50px;
+        margin-bottom: 100px;
+    }
+    h6{
+        color: #ddd;
+        margin-left: 500px;
+        margin-top: 90px;
+    }
+    .last{
+    
+        display: flex;
+    }
+    .social{
+        margin-left: 300px;
+        margin-top: 80px;
+    }
